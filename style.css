@@ -1,0 +1,28 @@
+h1 {
+    color:rgb(208, 63, 63);
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+a {
+    color:antiquewhite;
+    font-family: sans-serif;
+    background-color:rgb(208, 63, 63);
+    text-decoration: none;
+    padding: 0.3rem;
+}
+
+h2 {
+    color:rgb(208, 63, 63);
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+h3 {
+    color:coral;
+    font-size:small
+}
